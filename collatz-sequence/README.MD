@@ -1,4 +1,4 @@
- #The Collatz sequence is as follows:
+# The Collatz sequence is as follows:
 
 Start with some given integer n.
 If it is even, the next number will be n divided by 2.
