@@ -1,2 +1,5 @@
-this repository has written by alireza asghari
-if you enjoyed this we can have a cup of coffee someday later :)
+* ----------------------------------------------------------------------------
+ * alireza wrote this file.  As long as you retain this notice you
+ * can do whatever you want with this stuff. If we meet some day, and you think
+ * this stuff is worth it, you can buy me a cup of coffee in return.   alireza-asghari
+ * ----------------------------------------------------------------------------
