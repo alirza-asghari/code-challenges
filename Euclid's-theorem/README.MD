@@ -10,3 +10,6 @@ The provided code takes a positive integer as input and returns the prime factor
 Example
 Suppose we have the number 36. The prime factors of 36 are 
 2×2×3×3. Running the code with input 36 will return the prime factors: 2, 2, 3, and 3.
+
+## Contributing
+Contributions are welcome! If you find any issues with the code or have suggestions for improvement, feel free to open an issue or submit a pull request.
