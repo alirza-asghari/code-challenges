@@ -2,7 +2,7 @@
 
 A prison can be represented as a list of cells. Each cell contains exactly one prisoner. A 1 represents an unlocked cell and a 0 represents a locked cell.
 
-## [1, 1, 0, 0, 0, 1, 0]
+### [1, 1, 0, 0, 0, 1, 0]
 Starting inside the leftmost cell, you are tasked with seeing how many prisoners you can set free, with a catch. You are the prisoner in the first cell. If the first cell is locked, you cannot free anyone. Each time you free a prisoner, the locked cells become unlocked, and the unlocked cells become locked again.
 
 So, if we use the example above:
