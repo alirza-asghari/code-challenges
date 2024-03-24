@@ -6,9 +6,9 @@ The input may look like this:
 
 [
   [0, 1, 0, 0],  
-  [0, 0, 1, 0],  
-  [0, 1, 0, 1],  
-  [1, 1, 0, 0]  
+   [0, 0, 1, 0],  
+   [0, 1, 0, 1],  
+   [1, 1, 0, 0]  
 ]
 The 0 represents an empty space . The 1 represents a mine.
 
@@ -16,9 +16,9 @@ You will have to replace each mine with a 9 and each empty space with the number
 
 [
   [1, 9, 2, 1],  
-  [2, 3, 9, 2],  
-  [3, 9, 4, 9],  
-  [9, 9, 3, 1]  
+   [2, 3, 9, 2],  
+   [3, 9, 4, 9],  
+   [9, 9, 3, 1]  
 ]
 ## Note
 Since in the output the numbers 0-8 are used to determine the amount of adjacent mines, the number 9 will be used to identify the mines instead.
