@@ -32,7 +32,7 @@ def montyhall_simulation(iterations):
     return switch_wins, stay_wins
 
             
-test_size = int(input('How many time should I run the problem? '))
+test_size = int(input('How many time\'s should I run the problem? '))
 with_swith, with_stay = montyhall_simulation(test_size)
 print(f'Wins {with_swith} time\'s with swithing the door and {with_stay} time\'s without switching out of {test_size}')
 
